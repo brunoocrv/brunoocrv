@@ -4,6 +4,6 @@
 Hi, I'm Bruno.
 @@ frontend developer @@
 + Living in Maringa, Brazil 🇧🇷.
-- 22 years old
+- 23 years old
 # 📖 frontend development, functional programming student
 ```
