@@ -1,9 +1,15 @@
-<img align="left" height="150" src="https://letanure.github.io/assets/images/cssgif.gif"/>
+
 
 ```diff
-Hi, I'm Bruno.
+Hi, I'm Bruno Carvalho.
+
 @@ frontend developer @@
-+ Living in Maringa, Brazil 🇧🇷.
++ Living in Brazil 🇧🇷.
 - 23 years old
-# 📖 frontend development, functional programming student
+
+# 📖 frontend development, functional programming student.
+
+# 💻 currently working with ReactJS (NextJS and Remix), Typescript and AWS.
+
+# ⚙️ Main tools: ReactJS, JS/TS, Storybook, Jest, AWS, Golang, AWS, GraphQL, RESTfull, Figma.
 ```
